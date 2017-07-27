@@ -1,6 +1,6 @@
 ﻿<h2># demo-jquery.scrollspy v1.0</h2>
 <p>jquery插件 ( 滚动监听  ) - jquery.scrollspy v1.0</p>
-<p><b>演示地址：</b><a href="http://gongshunkai.github.io/demo/%E6%97%A0%E9%99%90%E6%BB%9A%E5%8A%A8%E7%BF%BB%E9%A1%B5/demo.html">http://gongshunkai.github.io/demo/%E6%97%A0%E9%99%90%E6%BB%9A%E5%8A%A8%E7%BF%BB%E9%A1%B5/demo.html</a></p>
+<p><b>演示地址：</b><a href="https://gongshunkai.github.io/demo/%E9%94%9A%E7%82%B9%E5%AE%9A%E4%BD%8D%E5%9E%82%E7%9B%B4%E6%BB%9A%E5%8A%A8/demo-scrollspy.html">https://gongshunkai.github.io/demo/%E9%94%9A%E7%82%B9%E5%AE%9A%E4%BD%8D%E5%9E%82%E7%9B%B4%E6%BB%9A%E5%8A%A8/demo-scrollspy.html</a></p>
 <p><b>使用方法：</b></p>
 <p><strong>一、监听浏览器窗口的滚动条就把配置参数写在body标签上</strong></p>
 <p>&#60;body data-spy="scroll" data-target="#navbar-example" data-offset="0"&#62;</p>
